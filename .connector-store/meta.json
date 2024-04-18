@@ -1,0 +1,19 @@
+{
+    "name": "timeseries",
+    "owner": "WSO2",
+    "category": "Siddhi Execution",
+    "documentationUrl": "https://wso2-extensions.github.io/siddhi-execution-timeseries/",
+    "description": "The siddhi-execution-timeseries extension is an extension to Siddhi which enables users to forecast and detect outliers in time series data, using Linear Regression Models.",
+    "status": "Active",
+    "labels": [
+        "siddhi",
+        "siddhi-execution",
+        "timeseries"
+    ],
+    "releases": [
+        {
+            "tagName": "4.1.2",
+            "products": []
+        }
+    ]
+}
